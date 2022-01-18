@@ -168,8 +168,8 @@ body {
 } */
 
 .muebles {
-    width: 350px;
-    height: 150px;
+    width: 400px;
+    height: 300px;
     border: solid;
 }
 
@@ -182,14 +182,15 @@ body {
 
 .taladro {
     width: 400px;
-    height: 600px;
+    height: 700px;
     border: solid rgb(243, 234, 234); 
 }
 
 .Sorteo {
     font-size: 19px;
     width: 400px;
-    color: rgb(243, 234, 234);
+    color: rgb(247, 171, 84);
+    border: solid rgb(243, 234, 234);
 }
 /* Fin productos */
 
